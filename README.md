@@ -16,14 +16,19 @@ Total terdapat 55 asset dengan berbagai jenis objek sederhana.
 ## Preview
 Berikut beberapa contoh asset representatif dari keseluruhan koleksi:
 
-![Asset 1](preview/asset01.png)
-![Asset 2](preview/asset02.png)
-![Asset 3](preview/asset03.png)
-![Asset 4](preview/asset04.png)
-![Asset 5](preview/asset05.png)
-![Asset 6](preview/asset06.png)
-![Asset 7](preview/asset07.png)
-![Asset 8](preview/asset08.png)
+![Asset 1](preview/asset_01.png)
+![Asset 2](preview/asset_02.png)
+![Asset 3](preview/asset_03.png)
+![Asset 4](preview/asset_04.png)
+![Asset 5](preview/asset_05.png)
+![Asset 6](preview/asset_06.png)
+![Asset 7](preview/asset_07.png)
+![Asset 8](preview/asset_08.png)
+![Asset 9](preview/asset_09.png)
+![Asset 10](preview/asset_10.png)
+![Asset_11](preview/asset_11.png)
+![Asset 12](preview/asset_12.png)
+![Asset 13](preview/asset_13.png)
 
 ## Tools
 - Blender 3D
