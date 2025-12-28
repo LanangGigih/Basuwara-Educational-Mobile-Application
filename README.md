@@ -1,38 +1,54 @@
-# Blender 3D Asset – Learning Project
+# Basuwara – Educational Mobile Application
 
-## Deskripsi
-Repository ini berisi kumpulan asset 3D yang dibuat menggunakan Blender 
-sebagai bagian dari proses pembelajaran 3D modeling dan texturing.
-Proyek ini dikerjakan dalam konteks pengembangan skill pribadi, termasuk
-selama program magang.
+## Project Overview
+Basuwara is an educational mobile application designed to promote the learning and preservation of traditional Indonesian scripts. The application aims to bridge the gap between the modern digital era and Indonesia’s linguistic heritage by providing an engaging and accessible learning experience for everyone.
 
-Total terdapat 55 asset dengan berbagai jenis objek sederhana.
+This project was part of my learning experience in collaborative Android development during the Bangkit Academy program.
 
-## Konten
-- 3D Modeling
-- UV Mapping
-- Texturing & Material
+---
 
-## Preview
-Berikut beberapa contoh asset representatif dari keseluruhan koleksi:
+## My Role
+**Android Developer (Team-based)**
 
-![Asset 1](preview/asset_01.png)
-![Asset 2](preview/asset_02.png)
-![Asset 3](preview/asset_03.PNG)
-![Asset 4](preview/asset_04.PNG)
-![Asset 5](preview/asset_05.PNG)
-![Asset 6](preview/asset_06.PNG)
-![Asset 7](preview/asset_07.PNG)
-![Asset 8](preview/asset_014.PNG)
-![Asset 9](preview/asset_09.png)
-![Asset 10](preview/asset_10.png)
-![Asset_11](preview/asset_11.png)
-![Asset 12](preview/asset_12.png)
-![Asset 13](preview/asset_13.PNG)
+## My Contribution
+- Collaborated with two other Android developers in developing the Android application
+- Implemented authentication and onboarding-related UI screens using Kotlin
+- Assisted in integrating learning content into the application flow
+- Participated in debugging and basic functional testing during development
 
-## Tools
-- Blender 3D
+---
 
-## Catatan
-- Repository ini digunakan sebagai portofolio pembelajaran pribadi
-- Asset tidak ditujukan untuk penggunaan komersial
+## Key Features
+- Interactive learning modules for traditional Indonesian scripts
+- Structured onboarding and authentication flow
+- Quiz and evaluation features
+- User-friendly mobile interface
+
+---
+
+## UI Preview (Authentication, Onboarding & Dashboard)
+The following images were taken from project documentation during development and are provided to illustrate UI flow and implementation progress for the authentication, onboarding features and dashboard.
+
+![Splash Screen](docs/screenshots/splash.jpg)
+![Onboarding Screen](docs/screenshots/onboard_01.jpg)
+![Login Screen](docs/screenshots/login.jpg)
+![Register Screen](docs/screenshots/register.jpg)
+![Dashboard Screen](docs/screenshots/dashboard.jpg)
+
+---
+
+## Tech Stack
+- Kotlin (Android)
+- Android Studio
+- Material Design
+- Figma (UI/UX reference)
+
+---
+
+## Notes
+The source code is not included in this repository as the project was developed collaboratively during the Bangkit Academy Independent Study program, and the final codebase is not publicly accessible. Visual materials are provided for documentation purposes and reflect development-stage progress.
+
+---
+
+## Acknowledgment
+This project was completed as part of a collaborative team effort under the Bangkit Academy program. All development contributions were made jointly with fellow team members.
