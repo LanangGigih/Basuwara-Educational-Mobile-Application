@@ -29,11 +29,11 @@ This project was part of my learning experience in collaborative Android develop
 ## UI Preview (Authentication, Onboarding & Dashboard)
 The following images were taken from project documentation during development and are provided to illustrate UI flow and implementation progress for the authentication, onboarding features and dashboard.
 
-![Splash Screen](docs/screenshots/splash.jpg)
-![Onboarding Screen](docs/screenshots/onboard_01.jpg)
-![Login Screen](docs/screenshots/login.jpg)
-![Register Screen](docs/screenshots/register.jpg)
-![Dashboard Screen](docs/screenshots/dashboard.jpg)
+![Splash Screen](/docs/screenshoots/docs/splash.jpg)
+![Onboarding Screen](/docs/screenshoots/onboard_01.jpg)
+![Login Screen](/docs/screenshoots/login.jpg)
+![Register Screen](/docs/screenshoots/register.jpg)
+![Dashboard Screen](/docs/screenshoots/dashboard.jpg)
 
 ---
 
